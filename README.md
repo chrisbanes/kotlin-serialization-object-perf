@@ -28,3 +28,7 @@ Link to [serializable classes](../main/app/src/main/java/com/example/serializati
 - Download the project
 - Connect an Android device (preferably physical but emulator works too)
 - Either: run `./gradlew benchmark:cC`, or run the test in Android Studio
+
+## Issue
+
+https://github.com/Kotlin/kotlinx.serialization/issues/2003
